@@ -2,8 +2,9 @@
 
 ## About project
 
+Fake News Classification using deep learning method in PyTorch
 
 
 ## Datasets
 
-![Zrzut ekranu 2023-04-17 o 18 48 21](https://user-images.githubusercontent.com/101282458/232554925-bb1ae194-085f-433c-8df6-55308d9f8a9a.png)
+Fake News Classification using deep learning, PyTorch, Optuna The project was created during the Advanced Data Science course. It contains a classification problem. The dataset comes from kaggle.com.

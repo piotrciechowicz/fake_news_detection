@@ -10,6 +10,8 @@ Dataset comes from kaggle.com.
 
 ### WELFake
 
+<img width="1029" alt="Zrzut ekranu 2023-04-17 o 20 19 56" src="https://user-images.githubusercontent.com/101282458/232575677-06b0019c-55c6-4ffc-8739-feafcb286165.png">
+
 https://www.kaggle.com/datasets/saurabhshahane/fake-news-classification
 
 ### Fake & Real

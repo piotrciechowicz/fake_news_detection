@@ -1,4 +1,4 @@
-# Fake news detection 
+# Fake news detection
 
 ## About project
 
